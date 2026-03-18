@@ -1,4 +1,5 @@
-# Weather Prediction & Clustering Lab  
+# AI & Data Science Lab (03)
+
 Machine Learning Lab Assignment – PyTorch & Scikit-Learn
 
 This project contains multiple machine learning tasks implemented using **PyTorch** and **Scikit-Learn**
